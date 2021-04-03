@@ -4,6 +4,6 @@
 
 :slot_machine: An ICS 4UI project made with Java and Java Swing widget toolkit to replicate a slot machine.
 
-The Java Swing GUI was built in [NetBeans IDE](https://netbeans.apache.org/).
+The Java Swing GUI was built in NetBeans IDE.
 
 A point system is implemented to keep track of user's scores and the number of wins.
