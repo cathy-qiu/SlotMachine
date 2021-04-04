@@ -6,4 +6,5 @@
 
 The Java Swing GUI was built in NetBeans IDE.
 
-A point system is implemented to keep track of user's scores and the number of wins.
+A point system is calculated to keep track of user's scores and the number of wins.  
+To play, simply press the play button and the GUI will display randomized symbols. 100 points will be awarded when you get all the same symbols
